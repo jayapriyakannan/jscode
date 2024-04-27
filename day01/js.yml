@@ -1,0 +1,16 @@
+//Var and let declares any type of values
+//const also declares any types of values but value is always constant
+
+
+//var - Declare any type of values - does  allows to redeclare the same variable again and again and reassign as well
+//var  scopr is local to whole function but not to a specific block however Let declaration is confined only to the block 
+
+//let -Declare any type of value - does not allows to redeclare the same variable but allows reassigns - ES6
+//Let scope confines to a specific block
+//It allows variables to be hoisted however will get intialised only at the line of code if used earlier u will get reference error 
+
+//hoisting is important to ensure the order of execution of code
+
+== Compares values
+
+=== compare values and type 
